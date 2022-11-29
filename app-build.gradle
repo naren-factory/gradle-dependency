@@ -10,7 +10,7 @@ android {
     compileSdkVersion 32
 
     defaultConfig {
-        applicationId "com.wayfair.product"
+        applicationId "com.demo.product"
         minSdk 21
         targetSdk 32
         versionCode 1
